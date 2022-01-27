@@ -28,3 +28,16 @@ composer.phar install
 
 Or just install the [composer](https://getcomposer.org/) program once and it will work always without any installations codes
 
+## Configure out accounts to maintain
+
+`administrator` role account
+```
+Login: admin
+Password: 123456789
+```
+
+`user` role account
+```
+Login: user
+Password: 123456789
+```
