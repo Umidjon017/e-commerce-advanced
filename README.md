@@ -30,7 +30,7 @@ Or just install the [composer](https://getcomposer.org/) program once and it wil
 
 <br>
 
-## Configure out accounts to maintain
+## Configure out accounts to maintain the project
 
 `administrator` role account
 ```
